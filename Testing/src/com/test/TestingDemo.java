@@ -10,5 +10,9 @@ package com.test;
  * @author SUDIP
  */
 public class TestingDemo {
-    
+ 
+    public static void main(String []arga)
+    {
+        System.out.println("This is the testing prgram.");
+    }
 }
