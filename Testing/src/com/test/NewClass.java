@@ -14,4 +14,8 @@ public class NewClass {
     {
         System.out.println("New file");
     }
+     void display()
+    {
+        System.out.println("testing");
+    }
 }
